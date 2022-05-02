@@ -552,6 +552,8 @@ p.slider_subtext{
 
 
 
+
+
 @media only screen and (max-width: 960px){
     .slider_items{
         flex-direction: column;
@@ -582,7 +584,6 @@ p.slider_subtext{
     }
     .info_item{
         align-items: center;
-        text-align: center;
         justify-self: center;
     }
 }
